@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: Senior Expert in Computer Vision and Machine Learning
 use-site-title: true
 ---
 
