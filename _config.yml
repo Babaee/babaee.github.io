@@ -19,7 +19,7 @@ description: Senior Expert in Computer Vision and Machine Learning | Munich
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
+  Home: ""
   CV: "cv"
   Publications: "publications"
 #  Publications:
