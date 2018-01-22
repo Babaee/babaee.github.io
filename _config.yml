@@ -4,7 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://babaee.github.io"
+#url: "https://robmaier.github.io"
+url: "https://babaee.github.io"
 baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -13,7 +14,7 @@ baseurl: ""
 title: Mohammadreza Babaee
 
 # Short description of your site
-description: Senior Expert in Computer Vision and Machine Learning | Munich
+description: Computer Vision Researcher | Munich
 
 # --- Navigation bar options --- #
 
@@ -40,24 +41,24 @@ avatar: "/img/rezababaee.png"
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
- navbar-col: "orange"
- navbar-img: "/img/bgimage.png"
- footer-col: "blue"
- footer-img: "/img/rezababaee.png"
- page-col: "#FF0000"
- page-img: "/img/bgimage.png"
+# navbar-col: "orange"
+# navbar-img: "/img/bgimage.png"
+# footer-col: "blue"
+# footer-img: "/img/bgimage.png"
+# page-col: "#FF0000"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Mohammadreza Babaee
+  name: Reza Babaee
   email: "mrezababaee@gmail.com"
-  github: Babaee
+  github: babaee
   twitter: mrezababaee
- # linkedin: robertmaier7
-  #xing: Robert_Maier34
+  linkedin: mrezababaee
+  xing: mrezababaee
 
 # Select which links to show in the footer
 footer-links-active:
@@ -70,12 +71,12 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  #facebook: true
+  facebook: true
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "babaee.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "babaee.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
