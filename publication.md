@@ -9,7 +9,7 @@ title: Publication
 ** A Deep Convolutional Neural Network for Video Sequence Background Subtraction**
 _Elsevier Pattern Recognition, 2017_  
 
-*M. Babaee, Y. You, G. Rigoll 
+* M. Babaee, Y. You, G. Rigoll 
 **Combined Segmentation, Reconstruction, and Tracking of Multiple Targets in Multi-View Video Sequences**
 _Elsevier Journal of Computer Vision and Image Understanding (CVIU), 2017 _ 
 
