@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 use-site-title: false
 ---
 
