@@ -5,8 +5,8 @@ title: Publication
 
 
 #### Journal Papers
-* M. Babaee, D. Dinh, G. Rigoll 
-**A Deep Convolutional Neural Network for Video Sequence Background Subtraction**
+* M. Babaee, D. Dinh, G. Rigoll
+," **A Deep Convolutional Neural Network for Video Sequence Background Subtraction**,"
 _Elsevier Pattern Recognition, 2017_  
 
 * M. Babaee, Y. You, G. Rigoll 
@@ -89,7 +89,7 @@ _IEEE International Conference on Image Processing (ICIP), Quebec City, Canada 2
 
 * M.  Babaee, S. Negahdaripour 
 **Improved Range Estimation and Underwater Image Enhancement under Turbidity by opti-Acoustic Stereo Imaging** 
-_IEEE/MTS Oceans, Genova, Italy 2015 _ 
+_IEEE/MTS Oceans, Genova, Italy 2015_ 
 
 * M. Babaee, S. Tsoukalas, M. Babaeel, M. Datcu 
 **Active Learning Using a Low-Rank Classifier** 
