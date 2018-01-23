@@ -6,7 +6,7 @@ title: Publication
 
 #### Journal Papers
 * M. Babaee, D. Dinh, G. Rigoll
-," **A Deep Convolutional Neural Network for Video Sequence Background Subtraction**,"
+,"**A Deep Convolutional Neural Network for Video Sequence Background Subtraction**,"
 _Elsevier Pattern Recognition, 2017_  
 
 * M. Babaee, Y. You, G. Rigoll 
