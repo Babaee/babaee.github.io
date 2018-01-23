@@ -25,20 +25,20 @@ _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensin
 **Nonlinear Subspace Clustering Using Curvature Constrained Distances**
 _Elsevier Pattern Recognition Letters, 2015_ 
 
-* M. Babaee, S. Negahdaripour
-**3-D Object Modeling from 2-D Occluding Contour Correspondences by Opti-Acoustic Stereo Imaging** 
+* M. Babaee, S. Negahdaripour,
+"**3-D Object Modeling from 2-D Occluding Contour Correspondences by Opti-Acoustic Stereo Imaging**," 
 _Elsevier Computer Vision and Image Understanding (CVIU), 2015_ 
 
 * M. Babaee, S. Tsoukalas, G. Rigoll, M. Datcu, 
 "**Visualization-Based Active Learning for the Annotation of SAR Images.**," 
 _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2015_ 
 
-* M. Babaee, S. Tsoukalas, M. Babaee, G. Rigoll, M. Datcu 
-**Discriminative Nonnegative Matrix Factorization for Dimensionality Reduction** 
+* M. Babaee, S. Tsoukalas, M. Babaee, G. Rigoll, M. Datcu, 
+"**Discriminative Nonnegative Matrix Factorization for Dimensionality Reduction**," 
 _Elsevier Neurocomputing, 2015_ 
 
-* M. Babaee, S. Tsoukalas, G. Rigoll, M. Datcu 
-**Immersive Visualization of Visual Data Using Nonnegative Matrix Factorization** 
+* M. Babaee, S. Tsoukalas, G. Rigoll, M. Datcu, 
+"**Immersive Visualization of Visual Data Using Nonnegative Matrix Factorization**" 
 _Elsevier Neurocomputing, 2015_ 
 
 #### Conference and Workshop Papers 
