@@ -5,20 +5,20 @@ title: Publication
 
 
 #### Journal Papers
-* M. Babaee, D. Dinh, G. Rigoll
-,"**A Deep Convolutional Neural Network for Video Sequence Background Subtraction**,"
+* M. Babaee, D. Dinh, G. Rigoll,
+"**A Deep Convolutional Neural Network for Video Sequence Background Subtraction**,"
 _Elsevier Pattern Recognition, 2017_  
 
-* M. Babaee, Y. You, G. Rigoll 
-**Combined Segmentation, Reconstruction, and Tracking of Multiple Targets in Multi-View Video Sequences**
+* M. Babaee, Y. You, G. Rigoll, 
+"<span style="color:blue"> **Combined Segmentation, Reconstruction, and Tracking of Multiple Targets in Multi-View Video Sequences**,"
 _Elsevier Journal of Computer Vision and Image Understanding (CVIU), 2017_ 
 
-* M.Babaee，T. Wolf， G. Rigoll
-**Toward Semantic Attributes in Dictionary Learning and Non-negative Matrix Factorization**
+* M.Babaee，T. Wolf， G. Rigoll,
+"**Toward Semantic Attributes in Dictionary Learning and Non-negative Matrix Factorization**,"
 _Elsevier Pattern Recognition Letters, 2016_ 
 
-* M. Babaee, X. Yu, G. Rigoll, M. Datcu 
-**Immersive Interactive SAR Image Representation Using Non-negative Matrix Factorization** 
+* M. Babaee, X. Yu, G. Rigoll, M. Datcu, 
+"**Immersive Interactive SAR Image Representation Using Non-negative Matrix Factorization**" 
 _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), Special issue on “GeoVision: Computer Vision for Geospatial Applications", 2016_ 
 
 * A. Babaeian, M. Babaee, A. Bayestehtashk, M. Bandarabadi
@@ -29,8 +29,8 @@ _Elsevier Pattern Recognition Letters, 2015_
 **3-D Object Modeling from 2-D Occluding Contour Correspondences by Opti-Acoustic Stereo Imaging** 
 _Elsevier Computer Vision and Image Understanding (CVIU), 2015_ 
 
-* M. Babaee, S. Tsoukalas, G. Rigoll, M. Datcu 
-**Visualization-Based Active Learning for the Annotation of SAR Images.** 
+* M. Babaee, S. Tsoukalas, G. Rigoll, M. Datcu, 
+"**Visualization-Based Active Learning for the Annotation of SAR Images.**," 
 _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2015_ 
 
 * M. Babaee, S. Tsoukalas, M. Babaee, G. Rigoll, M. Datcu 
