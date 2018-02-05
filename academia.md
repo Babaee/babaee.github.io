@@ -14,5 +14,10 @@ title: Academia
 # Reviewer
 
 
-* Journals: Computer Vision and Image Understanding (Elsevier).
+* Pattern Recognition Letters (Elsevier).
+* IEEE Transactions on Circuits and Systems for Video Technology, IEEE
+* IEEE Geoscience and Remote Sensing Letters, IEEE
+* Applied Sciences 
+* Journal of Machine Vision and Image Processing
+
 
