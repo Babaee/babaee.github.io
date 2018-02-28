@@ -48,8 +48,9 @@ European Space Agency, Frascati (Italy), June 2013
 
 
 * Pattern Recognition Letters (Elsevier).
-* IEEE Transactions on Circuits and Systems for Video Technology, IEEE
-* IEEE Geoscience and Remote Sensing Letters, IEEE
+* IEEE Transactions on Circuits and Systems for Video Technology
+* IEEE Transactions on Industrial Informatics
+* IEEE Geoscience and Remote Sensing Letters
 * Applied Sciences 
 * Journal of Machine Vision and Image Processing
 
