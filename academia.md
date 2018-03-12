@@ -12,8 +12,8 @@ title: Academia
 
 
 # Supervised Student Projects
-* Master’s thesis. Thomas Wolf, Deep learning for Backgroiund subtraction, Summer 2016
-* Master’s thesis. Thomas Wolf, Tracking of Multiple targets in multiview camera setup, Winter 2016
+* Master’s thesis. Duc Tung Dinh, Deep learning for Backgroiund subtraction, Summer 2016
+* Master’s thesis. Yue You, Tracking of Multiple targets in multiview camera setup, Winter 2016
 * Master’s thesis. Thomas Wolf, Deep learning for Human Gait recognition, Summer 2015
 * Master’s thesis. Yuanqin He, Feature coding for SAR Image Classification, Summer 2015
 * Bachelor thesis. Simone Scherer, Feature coding for SAR Image Classification, Summer 2015
@@ -32,7 +32,8 @@ Dimensionality Reduction, Fall 2013
 * Master seminar. Julia L¨uthen, Image Dehazing, Summer 2014
 
 # Conferences / Workshops / Invited Talks / Demos
-
+* Joint tracking and gait recognition of multiple people in video, ICIP, Beijing (China), September 2017
+* Pixel level tracking of multiple targets in crowded environments, ECCV, Amsterdam, October 2016
 * Interactive feature learning from radar image patches, IGARSS, Milan, July 2015
 * Improved range estimation and underwater image enhancement under turbidity by opti-acoustic stereo imaging, Oceans’15, Genova (Italy), May 2015
 * Interactive visualization based active learning, ECCV, Zurich, September 2014
