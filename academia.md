@@ -3,6 +3,13 @@ layout: page
 title: Academia
 ---
 
+# Award
+
+* IEEE Oceanic Engineering Society (OES) Scholarship Award, 2016
+* Best Paper Award in IEEE Oceans Conference, 2015
+* Munich Aerospace PhD scholarship Award, 2012
+* Grant for doing Master Thesis, University of Miami (USA), 2011
+
 # Teaching
 
 * Assisting in the Lecture Signal Representation (Signaldarstellung) (WS12/13, WS13/14, WS14/15)
