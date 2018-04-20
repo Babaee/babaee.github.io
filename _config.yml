@@ -26,6 +26,7 @@ navbar-links:
 #  Publications:
 #    - Intrinsic3D: "publications/maier2017intrinsic3d"
   Academia: "academia"
+  Work Experience: "Projects"
   Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -83,7 +84,7 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: UA-110528027-1
+google_analytics: UA-117918187-1
 
 # Google Tag Manager ID
 #gtm: ""
