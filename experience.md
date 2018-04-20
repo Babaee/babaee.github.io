@@ -1,12 +1,11 @@
 ---
 layout: page
 title: 
-subtitle: 
 ---
 
-# Skills
+## Skills
 
-## Computer Vision
+### Computer Vision
 * Solving Computer Vision tasks using Deep Learning
 * Simoltanous Localization and Mapping (SLAM), including ORB-SLAM, Underwater SLAM, Opti-Acoustic SLAM
 * Image segmentation, Detection and Tracking of Pedestrians in single (multiple) video(s)
@@ -15,19 +14,19 @@ subtitle:
 * Mutiple View Geometry, Motion Estimation, 3-D Reconstruction in Multimodal Imaging Systems
 * Multimodal Calibration, Opti-acoustic 
 * (Non-) linear Optimization in Matlab and Python
-## Machine Learning
+### Machine Learning
 * (Non-) Linear Regression, Data Prediction
 * Data and Image Calssification including SVM, Logistic Regression, Random Forests
 * (Non-) Linear Dimensionality Reduction including Non-negative Matrix Factorization, PCA, LLE, LE, SNE
 * Clustering of Images and High-dimenstional Data using K-means, GMM
 
-# Tools
+## Tools
 * Programming languages: C++, Java, Matlab, Python
 * Machine Learning tools: Tensorflow, Keras, scikit-learn, Numpy,  Panda
-* Computer Vision: OpenCV, ITK, VTK, OpenCL, Dlib, Boost, Google Ceres, 
+* Computer Vision: OpenCV, PCL, OpenMVG, ITK, VTK, OpenCL, Dlib, Boost, Google Ceres Solver, g2o 
 * Development tools: Google gtest, Boost, Git, Github, Bitbucket, Unit Testing
 
-# Projects
+## Projects
 
 **Video Background Subtraction using Deep Learning**: In this project a tool in C++ is implemented that subtracts forground objects from dynamic background. The heart part of algorithm is a Convolutional Neural Network that does feature extraction. Tensorflow as beacked and Keras are used for deep learning part. 
 
