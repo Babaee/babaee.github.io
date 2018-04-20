@@ -1,8 +1,3 @@
----
-layout: page
-title: Work Experience
----
-
 # Skills
 
 ## Computer Vision
@@ -13,6 +8,7 @@ title: Work Experience
 * Camera Calibration, Sonar Calibration, Opti-Acoustic Stereo Calibration, Multi-view Camera Calibration, Camera-Lidar Calibration
 * Mutiple View Geometry, Motion Estimation, 3-D Reconstruction in Multimodal Imaging Systems
 * Multimodal Calibration, Opti-acoustic 
+* (Non-) linear Optimization in Matlab and Python
 ## Machine Learning
 * (Non-) Linear Regression, Data Prediction
 * Data and Image Calssification including SVM, Logistic Regression, Random Forests
@@ -27,6 +23,28 @@ title: Work Experience
 
 # Projects
 
+** Video Background Subtraction using Deep Learning**: 
 
 
-# 
+** A tool for Calibration Check of a Multi-Camera Imaging device**: 
+
+
+** Image Face Beautification**:
+
+
+** Detection and Tracking of Pedestrians**:
+
+** Multi-Camera ORB-SLAM**:
+
+** 3-D Recons truction of Head using Convex-Hull**
+
+** Segmentation of Head in Portrait Images**:
+
+** Mesh Cleaning**:
+
+** Image Recognition**:
+
+
+
+
+
