@@ -1,3 +1,4 @@
+
 # Skills
 
 ## Computer Vision
@@ -23,26 +24,25 @@
 
 # Projects
 
-** Video Background Subtraction using Deep Learning**: 
+**Video Background Subtraction using Deep Learning**: In this project a tool in C++ is implemented that subtracts forground objects from dynamic background. The heart part of algorithm is a Convolutional Neural Network that does feature extraction. Tensorflow as beacked and Keras are used for deep learning part. 
+
+**A tool for Calibration Check of a Multi-Camera Imaging device**: In this project, 
 
 
-** A tool for Calibration Check of a Multi-Camera Imaging device**: 
+**Image Face Beautification**:
 
 
-** Image Face Beautification**:
+**Detection and Tracking of Pedestrians**:
 
+**Multi-Camera ORB-SLAM**:
 
-** Detection and Tracking of Pedestrians**:
+**3-D Recons truction of Head using Convex-Hull**
 
-** Multi-Camera ORB-SLAM**:
+**Segmentation of Head in Portrait Images**:
 
-** 3-D Recons truction of Head using Convex-Hull**
+**Mesh Cleaning**:
 
-** Segmentation of Head in Portrait Images**:
-
-** Mesh Cleaning**:
-
-** Image Recognition**:
+**Image Recognition**:
 
 
 
