@@ -3,16 +3,15 @@ layout: page
 title: CV
 ---
 
-| 08/2017 – present | **Senior Research Assistant**<br>[Institute for Human-Machine Communication](https://www.mmk.ei.tum.de/en/home/){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany* | 
-| 03/2015 – 07/2017 | **Senior Research AssistantD Candidate**<br>[Chair for Computer Vision and Artificial Intelligence](http://vision.in.tum.de){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany* | ![TUM CVPR](/img/cv_cvpr.jpg "TUM CVPR") |
-| 08/2012 – 02/2015 | **PhD Candidate**<br>[Oculus Research (Facebook)](https://www.oculus.com/research/){:target="_blank"}<br>*Redmond, WA, USA* | ![Oculus Research](/img/cv_oculus.jpg "Oculus Research") |
-| 02/2011 – 07/2012 | **Computer Vision Engineer**<br>[A.R.T Advanced Realtime Tracking](https://research.nvidia.com){:target="_blank"}<br>*Santa Clara, CA, USA* | ![NVIDIA](/img/cv_nvidia.jpg "NVIDIA") |
-| 07/2013 – 05/2014 | **Computer Vision Engineer**<br>[ImFusion](http://www.imfusion.de){:target="_blank"}<br>*Munich, Germany* | ![ImFusion](/img/cv_imfusion.jpg "ImFusion") |
-| 10/2010 – 09/2013 | **M.Sc. Computer Science, with distinction**<br>[Technische Universität München](https://www.tum.de){:target="_blank"}<br>*Munich, Germany* | ![TUM](/img/cv_tum.jpg "TUM") |
-| 09/2012 – 02/2013 | **Research Intern Computer Vision**<br>[Siemens Corporate Research](http://www.usa.siemens.com/en/about_us/research/home.htm){:target="_blank"}<br>*Princeton, NJ, USA* | ![Siemens](/img/cv_siemens.jpg "Siemens") |
-| 02/2007 – 05/2012 | **Software Engineer & Project Manager**<br>(Full-time 02/2007-08/2007, part-time 09/2007-05/2012)<br>GaLa 3000<br>*Ingolstadt, Germany* | ![GaLa 3000](/img/cv_gala3000.jpg "GaLa 3000") |
-| 09/2011 – 01/2012 | **Master in Information Technology (exchange semester)**<br>[Universitat Politecnica de Catalunya](http://www.upc.edu){:target="_blank"}<br>*Barcelona, Spain* | ![UPC](/img/cv_upc.jpg "UPC") |
-| 10/2007 – 10/2010 | **B.Sc. Computer Science**<br>[Technische Universität München](https://www.tum.de){:target="_blank"}<br>*Munich, Germany* | ![TUM](/img/cv_tum.jpg "TUM") |
-| 09/2004 – 01/2007 | **Computer Science Expert**<br>(IHK, vocational educational training)<br>GaLa 3000 / Staatliche Berufsschule 1<br>*Ingolstadt, Germany* | ![GaLa 3000](/img/cv_gala3000.jpg "GaLa 3000") |
+| 08/2017 – present | **Senior Research Assistant**<br>[Institute for Human-Machine Communication](https://www.mmk.ei.tum.de/en/home/){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany*
+| 03/2015 – 07/2017 | **PostDoc**<br>[Institute for Human-Machine Communication](https://www.mmk.ei.tum.de/en/home/){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany* 
+| 08/2012 – 02/2015 | **PhD Candidate**<br>[Institute for Human-Machine Communication & German Aerospace Ceneter](https://www.mmk.ei.tum.de/en/home/){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany* 
+| 02/2011 – 07/2012 | **Computer Vision Engineer**<br>[ART Advanced Realtime Tracking](https://ar-tracking.com/){:target="_blank"}<br>*Weilheim in Oberbayern, Germany* 
+| 09/2011 – 11/2011 | **Computer Vision Engineer**<br>[Metaio](https://en.wikipedia.org/wiki/Metaio){:target="_blank"}<br>*Munich, Germany* 
+| 02/2016 – 08/2011 | **Master Thesis**<br>[Underwater Image Processing Lab](https://welcome.miami.edu/){:target="_blank"}<br>University of Miami<br>*Miami, USA* | 
+| 03/2010 – 09/2010 | **Research Intern Computer Vision**<br>[ART Advanced Realtime Tracking](https://ar-tracking.com/){:target="_blank"}<br>*Weilheim in Oberbayern, Germany* 
+| 09/2011 – 01/2012 | **Master in Biomedical Computing**<br>{:target="_blank"}<br>Technische Universität München<br>*Munich, Germany*
+| 02/2007 – 05/2012 | **Software Engineer & Researcher**<br>(Full-time 02/2007-08/2007, part-time 09/2007-05/2012)<br>GaLa 3000<br>*Ingolstadt, Germany* | ![GaLa 3000](/img/cv_gala3000.jpg "GaLa 3000") |
+| 10/1999 – 07/2004 | **B.Sc. Computer(Software) Engineering**<br>[University of Isfahan](www.ui.ac.ir/en/){:target="_blank"}<br>*Isfahan, Iran*
 
 For a full CV, please feel free to send me an [email](http://babaee.github.io/contact/).
