@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-| 08/2017 – present | **Senior Research AssistantD Candidate**<br>[Chair for Computer Vision and Artificial Intelligence](http://vision.in.tum.de){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany* | ![TUM CVPR](/img/cv_cvpr.jpg "TUM CVPR") |
+| 08/2017 – present | **Senior Research Assistant**<br>[Institute for Human-Machine Communication](https://www.mmk.ei.tum.de/en/home/){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany* | 
 | 03/2015 – 07/2017 | **Senior Research AssistantD Candidate**<br>[Chair for Computer Vision and Artificial Intelligence](http://vision.in.tum.de){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany* | ![TUM CVPR](/img/cv_cvpr.jpg "TUM CVPR") |
 | 08/2012 – 02/2015 | **PhD Candidate**<br>[Oculus Research (Facebook)](https://www.oculus.com/research/){:target="_blank"}<br>*Redmond, WA, USA* | ![Oculus Research](/img/cv_oculus.jpg "Oculus Research") |
 | 02/2011 – 07/2012 | **Computer Vision Engineer**<br>[A.R.T Advanced Realtime Tracking](https://research.nvidia.com){:target="_blank"}<br>*Santa Clara, CA, USA* | ![NVIDIA](/img/cv_nvidia.jpg "NVIDIA") |
