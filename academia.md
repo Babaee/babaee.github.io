@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Academia
+title: ""
+use-site-title: false
 ---
 
 # Award
