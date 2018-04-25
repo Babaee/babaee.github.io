@@ -1,6 +1,7 @@
 ---
 layout: page
-title: CV
+title: ""
+use-site-title: false
 ---
 
 | 08/2017 – present | **Senior Research Assistant**<br>[Institute for Human-Machine Communication](https://www.mmk.ei.tum.de/en/home/){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany*
