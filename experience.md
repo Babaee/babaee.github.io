@@ -30,23 +30,23 @@ title:
 
 **Video Background Subtraction using Deep Learning**: In this project a tool in C++ is implemented that subtracts forground objects from dynamic background. The heart part of algorithm is a Convolutional Neural Network that does feature extraction. Tensorflow as beacked and Keras are used for deep learning part. 
 
-**A tool for Calibration Check of a Multi-Camera Imaging device**: In this project, 
+**A tool for Calibration Check of a Multi-Camera Imaging device**: In this project, a C++ solution is implemnted to recalibrate a multi-camera imaging setup and 
 
 
-**Image Face Beautification**:
+**Image Face Beautification**: Applying filtering on detected skin part of faces for face beautification. 
 
 
 **Detection and Tracking of Pedestrians**:
 
-**Multi-Camera ORB-SLAM**:
+**Multi-Camera ORB-SLAM**:Analyzing and Extending ORB-SLAM algorithm to work for multiple camera case. This is implemented in C++ under Linux OS
 
-**3-D Recons truction of Head using Convex-Hull**
+**3-D reconstruction of objects using convex-hull**: Implementing Visual-Hull 3-D reconstruction algorithm for generating 3-D mesh of observed objects in a multi-camera setup in C++. VTK has been used for rendering the obtained 3-D meshes.
 
-**Segmentation of Head in Portrait Images**:
+**Segmentation of Head in Portrait Images**: Implementing a deep learning algorithm for semamntic segmentation of human's head in portrait images.
 
-**Mesh Cleaning**:
+**Mesh Cleaning**: Cutting, merging, and boolean mesh operation in c++ using VTK library.
 
-**Image Recognition**:
+
 
 
 
