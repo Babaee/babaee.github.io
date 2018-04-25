@@ -7,7 +7,7 @@ use-site-title: false
 My name is **Mohammadreza Babaee** and I am a senior expert in computer vision and machine learning.
 
 # Research Interests
-My research interests include *Computer Vision and Machine Learning, Visual SLAM, Visual Odometry, 3D reconstruction, Deep learning*. 
+My research interests include *Computer Vision and Machine Learning, statistics, and algorithms*. 
 
 # Short Bio
 I was born in Iran and earned my Bachelor's in Computer Engineering at [the University of Isfahan](https://www.ui.ac.ir/){:target="_blank"} (Isfahan, Iran)() and my Master's degree in Biomedical Computing from Technical University of Munich (Germany). in 2004have joined the Computer Vision Group at TUM in May 2014 as a research assistant and doctorate candidate. Within the scope of my PhD activities, I spent several months as a Computer Vision Research Intern at [Oculus Research](https://www.oculus.com/research/){:target="_blank"} (Redmond, WA, USA) and [NVIDIA Research](https://research.nvidia.com/){:target="_blank"} (Santa Clara, CA, USA). From 2013 to 2014 I worked as a Computer Vision Engineer for medical imaging and RGB-D based 3D reconstruction at [ImFusion](http://www.imfusion.de/){:target="_blank"} (Munich).
