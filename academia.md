@@ -6,6 +6,7 @@ use-site-title: false
 
 ## Award
 
+* NVIDIA GPU Grant Award
 * IEEE Oceanic Engineering Society (OES) Scholarship Award, 2016
 * Best Paper Award in IEEE Oceans Conference, 2015
 * Munich Aerospace PhD scholarship Award, 2012
