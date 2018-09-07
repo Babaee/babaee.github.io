@@ -1,16 +1,18 @@
 ---
 layout: page
-title: Academia
+title: ""
+use-site-title: false
 ---
 
-# Award
+## Award
 
+* NVIDIA GPU Grant Award
 * IEEE Oceanic Engineering Society (OES) Scholarship Award, 2016
 * Best Paper Award in IEEE Oceans Conference, 2015
 * Munich Aerospace PhD scholarship Award, 2012
 * Grant for doing Master Thesis, University of Miami (USA), 2011
 
-# Teaching
+## Teaching
 
 * Assisting in the Lecture Signal Representation (Signaldarstellung) (WS12/13, WS13/14, WS14/15)
 * Assisting in the Lecture Signal Representation for MSE (Signaldarstellung für MSE) (WS12/13, WS 13/14, WS14/15)
@@ -18,7 +20,7 @@ title: Academia
 * Assisting in the Seminar Human-Machine Communication (SS13/14)
 
 
-# Supervised Student Projects
+## Supervised Student Projects
 * Master’s thesis. Duc Tung Dinh, Deep learning for Backgroiund subtraction, Summer 2016
 * Master’s thesis. Yue You, Tracking of Multiple targets in multiview camera setup, Winter 2016
 * Master’s thesis. Thomas Wolf, Deep learning for Human Gait recognition, Summer 2015
@@ -38,7 +40,7 @@ for the SAR Dataset, Fall 2013
 Dimensionality Reduction, Fall 2013
 * Master seminar. Julia L¨uthen, Image Dehazing, Summer 2014
 
-# Conferences / Workshops / Invited Talks / Demos
+## Conferences / Workshops / Invited Talks / Demos
 * Joint tracking and gait recognition of multiple people in video, ICIP, Beijing (China), September 2017
 * Pixel level tracking of multiple targets in crowded environments, ECCV, Amsterdam, October 2016
 * Interactive feature learning from radar image patches, IGARSS, Milan, July 2015
@@ -52,7 +54,7 @@ Frascati (Italy), November 2014
 * Immersive visual information mining for exploring the content of eo archives, Big Data from Space,
 European Space Agency, Frascati (Italy), June 2013
 
-# Reviewer
+## Reviewer
 
 
 * Pattern Recognition Letters (Elsevier).
