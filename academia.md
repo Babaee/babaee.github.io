@@ -21,8 +21,8 @@ use-site-title: false
 
 
 ## Supervised Student Projects
-* Master’s thesis. Duc Tung Dinh, Deep learning for Backgroiund subtraction, Summer 2016
-* Master’s thesis. Yue You, Tracking of Multiple targets in multiview camera setup, Winter 2016
+* Master’s thesis. Duc Tung Dinh, Deep learning for Background subtraction, Summer 2016
+* Master’s thesis. Yue You, Tracking of Multiple targets in multi-view camera setup, Winter 2016
 * Master’s thesis. Thomas Wolf, Deep learning for Human Gait recognition, Summer 2015
 * Master’s thesis. Yuanqin He, Feature coding for SAR Image Classification, Summer 2015
 * Bachelor thesis. Simone Scherer, Feature coding for SAR Image Classification, Summer 2015
@@ -46,22 +46,22 @@ Dimensionality Reduction, Fall 2013
 * Interactive feature learning from radar image patches, IGARSS, Milan, July 2015
 * Improved range estimation and underwater image enhancement under turbidity by opti-acoustic stereo imaging, Oceans’15, Genova (Italy), May 2015
 * Interactive visualization based active learning, ECCV, Zurich, September 2014
-* Discriminative feature learning from sar images, Big Data from Space, European Space Agency,
+* Discriminative feature learning from SAR images, Big Data from Space, European Space Agency,
 Frascati (Italy), November 2014
 * Farness preserving non-negative matrix factorization, ICIP, Paris (France), September 2014
 * Immersive interactive information mining with application to earth observation data retrieval, Regensburg (Germany), September 2013
-* Immersive visual information mining for exploring the content of eo archives, Living Planet Symposium, European Space Agency, Edinburgh (UK), September 2013
-* Immersive visual information mining for exploring the content of eo archives, Big Data from Space,
+* Immersive visual information mining for exploring the content of Earth Observation (EO) archives, Living Planet Symposium, European Space Agency, Edinburgh (UK), September 2013
+* Immersive visual information mining for exploring the content of EO archives, Big Data from Space,
 European Space Agency, Frascati (Italy), June 2013
 
 ## Reviewer
 
-
+* Pattern Recognition (Elsevier).
 * Pattern Recognition Letters (Elsevier).
+* IEEE Transactions on Image Processing
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Transactions on Industrial Informatics
 * IEEE Geoscience and Remote Sensing Letters
-* Applied Sciences 
+* IET Computer Vision
+* Applied Sciences
 * Journal of Machine Vision and Image Processing
-
-
