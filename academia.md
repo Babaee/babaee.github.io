@@ -59,6 +59,7 @@ European Space Agency, Frascati (Italy), June 2013
 * Pattern Recognition (Elsevier).
 * Pattern Recognition Letters (Elsevier).
 * IEEE Transactions on Image Processing
+* IEEE Transactions on Signal Processing
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Transactions on Industrial Informatics
 * IEEE Geoscience and Remote Sensing Letters
