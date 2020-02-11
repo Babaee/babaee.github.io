@@ -4,7 +4,7 @@ title: "CV"
 use-site-title: false
 ---
 
-| 08/2017 – present | **Freelancer in Computer Vision and Machine Learning**<br>
+| 08/2017 – present | **Researcher and Developer in Computer Vision and Machine Learning**<br>
 | 03/2015 – 07/2017 | **PostDoc**<br>[Institute for Human-Machine Communication](https://www.mmk.ei.tum.de/en/home/){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany* 
 | 08/2012 – 02/2015 | **PhD Candidate**<br>[Institute for Human-Machine Communication & German Aerospace Ceneter](https://www.mmk.ei.tum.de/en/home/){:target="_blank"}<br>Technische Universität München<br>*Munich, Germany* 
 | 02/2011 – 07/2012 | **Computer Vision Engineer**<br>[ART Advanced Realtime Tracking](https://ar-tracking.com/){:target="_blank"}<br>*Weilheim in Oberbayern, Germany* 
