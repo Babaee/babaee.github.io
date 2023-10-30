@@ -26,10 +26,10 @@ use-site-title: false
 
 
 ## Tools
-* Programming languages: C++, Java, Matlab, Python
-* Machine learning tools: Tensorflow, Keras, scikit-learn, NumPy, Pandas, SciPy
+* Programming languages: C++, Matlab, Python
+* Machine learning tools: Pytorch, Tensorflow, Keras, Scikit-learn, NumPy, Pandas, SciPy
 * Computer Vision: OpenCV, PCL, OpenMVG, ITK, VTK, OpenCL, Dlib, Boost, Google Ceres Solver, g2o 
-* Development tools: Google gtest, Boost, Git, Github, Bitbucket, Unit Testing
+* Development tools: CMake, Docker, Google gtest, Boost, Git, Github, Bitbucket, Unit Testing
 
 ## Projects
 Please contact me to get the list of projects
