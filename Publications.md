@@ -3,7 +3,9 @@ layout: page
 title: ""
 use-site-title: false
 ---
-<! (Find me on [Google Scholar](https://scholar.google.de/citations?user=OAy6MLEAAAAJ&hl=en){:target="_blank"} for a detailed list of my publications.)>
+<!---
+(Find me on [Google Scholar](https://scholar.google.de/citations?user=OAy6MLEAAAAJ&hl=en){:target="_blank"} for a detailed list of my publications.)
+--->
 
 #### Journal Articles
 * M. Babaee, D. Dinh, G. Rigoll,
