@@ -13,7 +13,8 @@ use-site-title: false
 * Grant for doing Master Thesis, University of Miami (USA), 2011
 
 ## Reviewer
-
+* IROS 2023, 2024 Associate Editor (AE)
+* ICCV 2023, ECCV 2024
 * Pattern Recognition (Elsevier).
 * Pattern Recognition Letters (Elsevier).
 * IEEE Transactions on Image Processing
